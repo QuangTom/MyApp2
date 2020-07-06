@@ -1,0 +1,513 @@
+{
+  "code": 200,
+  "message": null,
+  "data": {
+    "content": [
+      {
+        "id": 1,
+        "works": {
+          "id": 1,
+          "codeView": "cong_viec_1",
+          "name": "công việc 1",
+          "description": null,
+          "laborNorms": 1,
+          "quantity": 100,
+          "value": false,
+          "units": {
+            "id": 2,
+            "codeView": "NHÂMY",
+            "name": "Nhà máy",
+            "description": "Nhà máy",
+            "deleted": false
+          },
+          "shifts": {
+            "id": 3,
+            "codeView": "CA_3",
+            "name": "CA 3",
+            "workDate": null,
+            "startTime": null,
+            "endTime": null,
+            "description": "ca 3"
+          },
+          "products": {
+            "id": 1,
+            "codeView": "san_pham_1",
+            "name": "sản phẩm 1",
+            "unitOfMeasure": "vỉ",
+            "price": 15000,
+            "quantity": 1000
+          }
+        },
+        "employees": {
+          "name": "Duc",
+          "fullName": "Dang Van Duc",
+          "email": "vanduc201296@gmail.com",
+          "phone": null,
+          "address": "Nghe An",
+          "birthday": "12-12-1996",
+          "sex": 1,
+          "supply_date": null,
+          "supply_address": null,
+          "address_now": "Ha Noi",
+          "nation": "VN",
+          "education": "Dai hoc",
+          "description": "Nothing",
+          "social_link": null,
+          "image": null,
+          "value": false,
+          "departments": {
+            "id": 1,
+            "codeView": "HanhChinh",
+            "name": "Hành Chính",
+            "address": "Hà Nội",
+            "description": "hành chính",
+            "units": {
+              "id": 1,
+              "codeView": "VANPHONG",
+              "name": "Văn Phòng",
+              "description": "văn phòng",
+              "deleted": false
+            },
+            "deleted": false
+          },
+          "coefficientSalaries": [],
+          "id": 1,
+          "deleted": false,
+          "cmnd": 123456
+        },
+        "assignDate": [
+          2020,
+          6,
+          7
+        ],
+        "description": null,
+        "quangtity": null
+      },
+      {
+        "id": 2,
+        "works": {
+          "id": 1,
+          "codeView": "cong_viec_1",
+          "name": "công việc 1",
+          "description": null,
+          "laborNorms": 1,
+          "quantity": 100,
+          "value": false,
+          "units": {
+            "id": 2,
+            "codeView": "NHÂMY",
+            "name": "Nhà máy",
+            "description": "Nhà máy",
+            "deleted": false
+          },
+          "shifts": {
+            "id": 3,
+            "codeView": "CA_3",
+            "name": "CA 3",
+            "workDate": null,
+            "startTime": null,
+            "endTime": null,
+            "description": "ca 3"
+          },
+          "products": {
+            "id": 1,
+            "codeView": "san_pham_1",
+            "name": "sản phẩm 1",
+            "unitOfMeasure": "vỉ",
+            "price": 15000,
+            "quantity": 1000
+          }
+        },
+        "employees": {
+          "name": "A",
+          "fullName": "Nguyen Van A",
+          "email": "ghg@gmail.com",
+          "phone": null,
+          "address": "Ha Noi",
+          "birthday": "5-1-1987",
+          "sex": 0,
+          "supply_date": null,
+          "supply_address": null,
+          "address_now": "Ha Noi",
+          "nation": "VN",
+          "education": "Cao Dang",
+          "description": "Nothinh",
+          "social_link": null,
+          "image": null,
+          "value": false,
+          "departments": {
+            "id": 3,
+            "codeView": "PhaChe1",
+            "name": "Pha Chế 1",
+            "address": "Hà Nội",
+            "description": "Pha chế 1",
+            "units": {
+              "id": 2,
+              "codeView": "NHÂMY",
+              "name": "Nhà máy",
+              "description": "Nhà máy",
+              "deleted": false
+            },
+            "deleted": false
+          },
+          "coefficientSalaries": [],
+          "id": 2,
+          "deleted": false,
+          "cmnd": 3554
+        },
+        "assignDate": [
+          2020,
+          6,
+          7
+        ],
+        "description": null,
+        "quangtity": null
+      },
+      {
+        "id": 3,
+        "works": {
+          "id": 1,
+          "codeView": "cong_viec_1",
+          "name": "công việc 1",
+          "description": null,
+          "laborNorms": 1,
+          "quantity": 100,
+          "value": false,
+          "units": {
+            "id": 2,
+            "codeView": "NHÂMY",
+            "name": "Nhà máy",
+            "description": "Nhà máy",
+            "deleted": false
+          },
+          "shifts": {
+            "id": 3,
+            "codeView": "CA_3",
+            "name": "CA 3",
+            "workDate": null,
+            "startTime": null,
+            "endTime": null,
+            "description": "ca 3"
+          },
+          "products": {
+            "id": 1,
+            "codeView": "san_pham_1",
+            "name": "sản phẩm 1",
+            "unitOfMeasure": "vỉ",
+            "price": 15000,
+            "quantity": 1000
+          }
+        },
+        "employees": {
+          "name": "Linh",
+          "fullName": "Trần Văn Linh",
+          "email": "dvd1@gmail.com",
+          "phone": null,
+          "address": "Nghe An",
+          "birthday": "12-12-1996",
+          "sex": 1,
+          "supply_date": null,
+          "supply_address": null,
+          "address_now": "Ha Noi",
+          "nation": "VN",
+          "education": "Dai hoc",
+          "description": "Nothing",
+          "social_link": null,
+          "image": null,
+          "value": false,
+          "departments": {
+            "id": 1,
+            "codeView": "HanhChinh",
+            "name": "Hành Chính",
+            "address": "Hà Nội",
+            "description": "hành chính",
+            "units": {
+              "id": 1,
+              "codeView": "VANPHONG",
+              "name": "Văn Phòng",
+              "description": "văn phòng",
+              "deleted": false
+            },
+            "deleted": false
+          },
+          "coefficientSalaries": [],
+          "id": 3,
+          "deleted": false,
+          "cmnd": 123456
+        },
+        "assignDate": [
+          2020,
+          6,
+          7
+        ],
+        "description": null,
+        "quangtity": null
+      },
+      {
+        "id": 4,
+        "works": {
+          "id": 3,
+          "codeView": "cong_viec_3",
+          "name": "công việc 3",
+          "description": null,
+          "laborNorms": 1,
+          "quantity": 20,
+          "value": false,
+          "units": {
+            "id": 2,
+            "codeView": "NHÂMY",
+            "name": "Nhà máy",
+            "description": "Nhà máy",
+            "deleted": false
+          },
+          "shifts": {
+            "id": 2,
+            "codeView": "CA_2",
+            "name": "CA 2",
+            "workDate": null,
+            "startTime": null,
+            "endTime": null,
+            "description": "ca 2"
+          },
+          "products": {
+            "id": 2,
+            "codeView": "san_pham_2",
+            "name": "sản phẩm 2",
+            "unitOfMeasure": "mẻ",
+            "price": 30000,
+            "quantity": 500
+          }
+        },
+        "employees": {
+          "name": "Hưng",
+          "fullName": "Nguyen Hữu Hưng",
+          "email": "ghg1@gmail.com",
+          "phone": null,
+          "address": "Ha Noi",
+          "birthday": "5-1-1987",
+          "sex": 0,
+          "supply_date": null,
+          "supply_address": null,
+          "address_now": "Ha Noi",
+          "nation": "VN",
+          "education": "Cao Dang",
+          "description": "Nothinh",
+          "social_link": null,
+          "image": null,
+          "value": false,
+          "departments": {
+            "id": 2,
+            "codeView": "KeToan",
+            "name": "Kế Toán",
+            "address": "Hà Nội",
+            "description": "kế toán",
+            "units": {
+              "id": 1,
+              "codeView": "VANPHONG",
+              "name": "Văn Phòng",
+              "description": "văn phòng",
+              "deleted": false
+            },
+            "deleted": false
+          },
+          "coefficientSalaries": [],
+          "id": 4,
+          "deleted": false,
+          "cmnd": 3554
+        },
+        "assignDate": [
+          2020,
+          6,
+          7
+        ],
+        "description": null,
+        "quangtity": null
+      },
+      {
+        "id": 5,
+        "works": {
+          "id": 2,
+          "codeView": "cong_viec_2",
+          "name": "công việc 2",
+          "description": null,
+          "laborNorms": 1,
+          "quantity": 50,
+          "value": false,
+          "units": {
+            "id": 2,
+            "codeView": "NHÂMY",
+            "name": "Nhà máy",
+            "description": "Nhà máy",
+            "deleted": false
+          },
+          "shifts": {
+            "id": 1,
+            "codeView": "CA_1",
+            "name": "CA 1",
+            "workDate": null,
+            "startTime": null,
+            "endTime": null,
+            "description": "ca 1"
+          },
+          "products": {
+            "id": 1,
+            "codeView": "san_pham_1",
+            "name": "sản phẩm 1",
+            "unitOfMeasure": "vỉ",
+            "price": 15000,
+            "quantity": 1000
+          }
+        },
+        "employees": {
+          "name": "Đạt",
+          "fullName": "Đinh Tiến Đạt",
+          "email": "dvd11@gmail.com",
+          "phone": null,
+          "address": "Nghe An",
+          "birthday": "12-12-1996",
+          "sex": 1,
+          "supply_date": null,
+          "supply_address": null,
+          "address_now": "Ha Noi",
+          "nation": "VN",
+          "education": "Dai hoc",
+          "description": "Nothing",
+          "social_link": null,
+          "image": null,
+          "value": false,
+          "departments": {
+            "id": 1,
+            "codeView": "HanhChinh",
+            "name": "Hành Chính",
+            "address": "Hà Nội",
+            "description": "hành chính",
+            "units": {
+              "id": 1,
+              "codeView": "VANPHONG",
+              "name": "Văn Phòng",
+              "description": "văn phòng",
+              "deleted": false
+            },
+            "deleted": false
+          },
+          "coefficientSalaries": [],
+          "id": 5,
+          "deleted": false,
+          "cmnd": 123456
+        },
+        "assignDate": [
+          2020,
+          6,
+          7
+        ],
+        "description": null,
+        "quangtity": null
+      },
+      {
+        "id": 6,
+        "works": {
+          "id": 2,
+          "codeView": "cong_viec_2",
+          "name": "công việc 2",
+          "description": null,
+          "laborNorms": 1,
+          "quantity": 50,
+          "value": false,
+          "units": {
+            "id": 2,
+            "codeView": "NHÂMY",
+            "name": "Nhà máy",
+            "description": "Nhà máy",
+            "deleted": false
+          },
+          "shifts": {
+            "id": 1,
+            "codeView": "CA_1",
+            "name": "CA 1",
+            "workDate": null,
+            "startTime": null,
+            "endTime": null,
+            "description": "ca 1"
+          },
+          "products": {
+            "id": 1,
+            "codeView": "san_pham_1",
+            "name": "sản phẩm 1",
+            "unitOfMeasure": "vỉ",
+            "price": 15000,
+            "quantity": 1000
+          }
+        },
+        "employees": {
+          "name": "Ngân",
+          "fullName": "Bùi Xuân Ngân",
+          "email": "ghg11@gmail.com",
+          "phone": null,
+          "address": "Ha Noi",
+          "birthday": "5-1-1987",
+          "sex": 0,
+          "supply_date": null,
+          "supply_address": null,
+          "address_now": "Ha Noi",
+          "nation": "VN",
+          "education": "Cao Dang",
+          "description": "Nothinh",
+          "social_link": null,
+          "image": null,
+          "value": false,
+          "departments": {
+            "id": 2,
+            "codeView": "KeToan",
+            "name": "Kế Toán",
+            "address": "Hà Nội",
+            "description": "kế toán",
+            "units": {
+              "id": 1,
+              "codeView": "VANPHONG",
+              "name": "Văn Phòng",
+              "description": "văn phòng",
+              "deleted": false
+            },
+            "deleted": false
+          },
+          "coefficientSalaries": [],
+          "id": 6,
+          "deleted": false,
+          "cmnd": 3554
+        },
+        "assignDate": [
+          2020,
+          6,
+          7
+        ],
+        "description": null,
+        "quangtity": null
+      }
+    ],
+    "pageable": {
+      "sort": {
+        "unsorted": true,
+        "sorted": false,
+        "empty": true
+      },
+      "offset": 0,
+      "pageNumber": 0,
+      "pageSize": 10,
+      "paged": true,
+      "unpaged": false
+    },
+    "totalPages": 1,
+    "totalElements": 6,
+    "last": true,
+    "size": 10,
+    "number": 0,
+    "sort": {
+      "unsorted": true,
+      "sorted": false,
+      "empty": true
+    },
+    "first": true,
+    "numberOfElements": 6,
+    "empty": false
+  }
+}
